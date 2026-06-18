@@ -8,10 +8,13 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?logo=typescript)](https://www.typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite)](https://vitejs.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?logo=tailwindcss)](https://tailwindcss.com)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel)](https://developer-portfolio-zjbtinyers-projects.vercel.app)
 
 </div>
 
 一个由 **React + TypeScript + Vite** 构建的现代个人作品集网站，展示全栈开发技能与项目。支持深色/浅色双主题、中英文国际化、访问统计和留言板功能。
+
+> 🌐 **在线体验**: [developer-portfolio-zjbtinyers-projects.vercel.app](https://developer-portfolio-zjbtinyers-projects.vercel.app)
 
 ---
 
